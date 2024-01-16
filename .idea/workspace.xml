@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="950a88e3-c521-4279-81c1-9c387f42006d" name="Changes" comment="a">
-      <change afterPath="$PROJECT_DIR$/src/controladores/Proveedor.java" afterDir="false" />
+    <list default="true" id="950a88e3-c521-4279-81c1-9c387f42006d" name="Changes" comment="com.ceica&#10;modelo&#10;proveedor">
+      <change afterPath="$PROJECT_DIR$/src/modelos/Categoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelos/Pedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelos/Pieza.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,17 +25,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2b2ehvuVBK2YH1KmvanWz5x9ePg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -41,6 +46,18 @@
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="modelos" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,11 +91,28 @@
       <option name="project" value="LOCAL" />
       <updated>1705418605123</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="com.ceica&#10;modelo&#10;proveedor">
+      <option name="closed" value="true" />
+      <created>1705419837593</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705419837593</updated>
+    </task>
+    <task id="LOCAL-00005" summary="com.ceica&#10;modelo&#10;proveedor">
+      <option name="closed" value="true" />
+      <created>1705420002629</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705420002629</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="a" />
-    <option name="LAST_COMMIT_MESSAGE" value="a" />
+    <MESSAGE value="com.ceica&#10;modelo&#10;proveedor" />
+    <option name="LAST_COMMIT_MESSAGE" value="com.ceica&#10;modelo&#10;proveedor" />
   </component>
 </project>
